@@ -1,6 +1,6 @@
 version : "2"
 services :
   web :
-     image : "suranjanpradhan/my-note-app:latest"
+     image : "suranjanpradhan/my-note-app"
      ports :
          - "8000:8000"
